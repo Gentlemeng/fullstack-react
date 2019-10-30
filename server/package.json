@@ -34,7 +34,7 @@
     "config": "^3.1.0",
     "graphql": "^14.3.1",
     "graphql-toolkit": "^0.2.14",
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "plaid": "^4.0.0",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^0.17.4",
