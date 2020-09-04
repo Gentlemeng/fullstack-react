@@ -37,7 +37,7 @@
     "mongoose": "^5.5.12",
     "plaid": "^4.0.0",
     "reflect-metadata": "^0.1.13",
-    "type-graphql": "^0.17.4",
+    "type-graphql": "^0.17.6",
     "typegoose": "^5.6.0"
   },
   "husky": {
